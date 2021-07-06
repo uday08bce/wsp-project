@@ -1,0 +1,14 @@
+.logo-container {
+    display: flex;
+    padding: 1.6rem 1rem;
+    flex-flow: row;
+    width: 100%;
+    justify-content: space-between;
+    background-color: #f0f0f0;
+}
+
+
+.logo-container-searchbox{
+	width: 20%;
+	height: 30%;
+}

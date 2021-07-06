@@ -1,0 +1,88 @@
+body {
+  min-width: 100px;
+  min-height: 100%;
+  font-family: Roboto,-apple-system,Helvetica Neue,Helvetica,Arial,sans-serif;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  font-smoothing: antialiased;
+  line-height: 1.5;
+  font-size: 14px;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.constrain {
+    max-width: 97.5rem;
+    margin: 0 auto;
+}
+
+.flex-center, .items-center {
+    align-items: center;
+}
+
+.pa-none {
+    padding: 0 0;
+}
+
+.no-wrap {
+    flex-wrap: nowrap;
+}
+
+.column, .flex, .row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.bg-accent {
+    background: var(--q-color-accent)!important;
+}
+
+.betweenspace {
+    flex-grow: 1!important;
+}
+
+.menu-link {
+    cursor: pointer;
+    color: #383838;
+    font-weight: 400;
+    height: 4.4rem;
+    padding: 0 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.border-right {
+    border-radius: 0!important;
+    border-right: .1rem solid #f0f0f0;
+    margin-right: 0!important;
+}
+
+:after, :before {
+    box-sizing: inherit;
+    -webkit-tap-highlight-color: transparent;
+}
+
+.absolute-full, .fixed-full, .fullscreen {
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+
+
+.toolbar {
+    position: relative;
+    padding: 0 12px;
+    width: 100%;
+}
+
+.flex-container{
+    display: flex;
+    flex-wrap: wrap;
+}

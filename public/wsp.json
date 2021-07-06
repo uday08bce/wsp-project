@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "title": "Climate finance potential to unlock private sector investments in adaptation",
+    "image": "../pictures/Private_Inv.jpg",
+    "summary": "The increasing variety of climate, water and biodiversity funds and financing facilities, has the potential to increase complementarity. In practice, this increasing fragmentation is becoming a systemic barrier for local access to finance.",
+    "body": "As stated by the UNEP Adaptation Gap Report 2020, the adaptation finance gap is not closing, despite an increase in available financing. The private sector remains an untapped source of financing and expertise. Private sector engagement in adaptation is crucial, not only to close the implementation and financing gaps of National Adaptation Plans (NAPs), but more importantly to ensure the long-term financial sustainability of these investments. "
+  },
+  {
+    "id": 2,
+    "title": "Measure for adopting city-wise sanitation",
+    "image": "../pictures/citywise_sanitation.jpg",
+    "summary": "A paradigm shift towards a public service approach may help in confronting the sanitation challenges faced by cities and towns",
+    "body": "To meet SDG 6, the Government of India has recognized Non-Sewered Sanitation (NSS), i.e. Faecal Sludge and Septage Management (FSSM), including Wastewater Management, as a viable and pragmatic solution towards citywide sanitation (especially in small towns and cities).. The recent national missions - Swachh Bharat Mission Urban 2.0, Jal Jeevan Mission (Urban) and the 15th Finance commission - demonstrate a response to “Toilet ke baad kya?” (What happens after we flush the toilet) by emphasizing NSS."
+  },
+  {
+    "id": 3,
+    "title": "Determining the true value of the 'blue gold'",
+    "image": "../pictures/blue-gold.jpg",
+    "summary": "It seems necessary to examine water’s various dimensions in order to understand the various aspects of its “value” Water is our most precious resource, a ‘blue gold’ to which more than 2 billion people do not have direct access",
+    "body": "The United Nations World Water Development Report (WWDR) 2021, published by UNESCO on behalf of UN-Water, shows that the inability to recognize the value of water is the main cause of water waste and misuse. Despite the difficulty of attributing an objective and indisputable value to a resource which is fundamental to life, it seems necessary to examine water’s various dimensions in order to understand the various aspects of its “value”. This is especially true in times of growing scarcity and against the backdrop of population growth and climate change."
+  },
+  {
+    "id": 4,
+    "title": "Cost of being poor: Informal water access in the slums of Buenos Aires",
+    "image": "../pictures/Bueno_Aires.jpg",
+    "summary": "Community mediation as a strategy for dialogue between the responsibility of state governments to provide drinking water services to poor communities in large cities: the case of Buenos Aires. The cost difference in access to safe water in the city of Buenos Aires: why is it more expensive for someone poor to pay for safe water?",
+    "body": "The City and its Inequality According to the last census in 2010, Buenos Aires, the capital of Argentina, has 2.8 million inhabitants, of which 5.7% live in informal neighborhoods called villas. Although Buenos Aires has the third highest GDP per capita in the Latin American Southern Cone, the access to the city differs between the formal city - which has a land registry and electricity, gas, and water services - and the slums, which are characterized by informal connections to the historical lines of these services. In Buenos Aires there are 20 slums and many more smaller informal neighborhoods (Villas). The ownership of the land where the villas have been developed is usually nationally or locally owned fiscal land, and, to a marginal extent, private land. However, the challenge to include them in the formal urban design was only taken on by the local government in 2012 from its public policy de Villa a Barrio. "
+  }
+]
+
+
+    
+    
